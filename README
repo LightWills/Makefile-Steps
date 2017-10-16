@@ -1,0 +1,9 @@
+#Makefile 
+
+In this file, i creat a makefile that automaticly executes  the compilation of C file
+
+##Rule 
+###make : Complialtion of file
+###make clean : delete binary file(s)
+###make fclean : delete executable file
+###make re: delete all file and re-complil them.
